@@ -49,15 +49,3 @@ Edit
 [api_keys]
 google_api_key = "YOUR_GOOGLE_API_KEY"
 Click Deploy.
-
-
-📩 Contact
-For any questions or suggestions, feel free to open an issue or contact the maintainer.
-
-yaml
-Copy
-Edit
-
----
-
-✅ You can now copy this **entire file** into your project as `README.md`. Let me know if yo
